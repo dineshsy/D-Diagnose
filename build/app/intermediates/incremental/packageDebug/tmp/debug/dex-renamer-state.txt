@@ -1,0 +1,4 @@
+#Sat Feb 22 09:15:41 IST 2020
+base.0=G\:\\PlantDiseaseProphecy\\plant_disease_prophecy\\A104-Technophiles\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
