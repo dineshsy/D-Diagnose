@@ -27,6 +27,8 @@
  
  ![predicted](https://i.ibb.co/F56D2Kr/prediction.png)
  
+ # This App won first place in MiniProjectExpo
+ 
  ## Contributor :
  
 ### I would like to thank Vasanth Kumar (https://github.com/VasanthKumar14) for his great effort in building the ML model.
